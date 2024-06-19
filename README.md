@@ -1,6 +1,8 @@
 # Heart Disease Prediction Model
 
-This repository contains a machine learning project to predict heart disease using health metrics. The code includes data preprocessing, exploratory data analysis, model building, evaluation, and saving the trained model.
+My first project!!!! Yay!
+
+This repository contains a basic machine learning project to predict heart disease using health metrics. The code includes data preprocessing, exploratory data analysis, model building, evaluation, and saving the trained model.
 
 ## Project Steps
 
@@ -38,7 +40,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn joblib
     Execute the main script:
 
     ```bash
-    python main.py
+    python main.py[README.md](https://github.com/user-attachments/files/15899684/README.md)
+
     ```
 
 ## Main Functions
@@ -105,7 +108,3 @@ def save_model(pipeline, model_path):
     joblib.dump(pipeline, model_path)
     print(f"Model saved to {model_path}")
 ```
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
