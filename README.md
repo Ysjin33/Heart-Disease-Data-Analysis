@@ -106,10 +106,6 @@ def save_model(pipeline, model_path):
     print(f"Model saved to {model_path}")
 ```
 
-## Contributing
-
-Fork the repository and submit a pull request if you wish to contribute.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
